@@ -1,0 +1,88 @@
+1. What are the first aid measures in case of inhalation?
+Answer(3.26s): In case of inhalation, the first aid measure is to move the individual into fresh air. If breathing is difficult, oxygen may be given by qualified personnel. It is also recommended to seek immediate medical attention.
+----------------------------------------------------------
+2. What are the first aid measures in case of skin contact?
+Answer(2.41s): In case of skin contact, the recommended first aid measures are to remove contaminated clothing, wash the exposed area with soap and water, and rinse thoroughly. If irritation persists or if contact has been prolonged, it is advised to seek medical attention.
+----------------------------------------------------------
+3. What are the first aid measures in case of eye contact?
+Answer(1.82s): In case of eye contact, the first aid measures include rinsing the eyes with water for several minutes. It is also recommended to consult a physician.
+----------------------------------------------------------
+4. What are the first aid measures in case of ingestion?
+Answer(2.85s): In case of ingestion, it is advised not to induce vomiting without medical advice. It is recommended to consult a physician for further guidance.
+----------------------------------------------------------
+5. What is the emergency telephone number for the product?
+Answer(2.79s): The emergency telephone number for the product is Chemtrec 1-800-424-9300.
+----------------------------------------------------------
+6. What are the hazard classifications associated with the product?
+Answer(2.55s): The hazard classifications associated with the product are as follows:
+- Reproductive toxicity: Category 18
+- Specific organ toxicity, repeated exposure: Category 2
+- Flammable liquids: Category 3
+----------------------------------------------------------
+7. What are the hazard statements related to the product?
+Answer(3.36s): The hazard statements related to the product are:
+- H222: Flammable liquid and vapor
+- H302: Harmful if swallowed
+- H313: Causes eye irritation
+- H332: Harmful if inhaled
+- H351: Suspected of causing cancer
+- H360: May damage fertility of the unborn child
+- H373: May cause damage to organs through prolonged or repeated exposure if swallowed
+----------------------------------------------------------
+8. What precautions should be taken while handling the product?
+Answer(2.75s): Precautions for safe handling include avoiding contact with skin and eyes, avoiding inhalation of vapor, and ensuring adequate ventilation. It is also important to keep bottles securely closed in a dry, well-ventilated place when not in use and to avoid strong oxidizing agents.
+----------------------------------------------------------
+9. What are the suitable extinguishing media for a fire involving the product?
+Answer(1.87s): The suitable extinguishing media for a fire involving the product are carbon dioxide, alcohol-resistant foam, dry chemical, or water spray.
+----------------------------------------------------------
+10. What is the toxicological information available for the product?
+Answer(8.95s): The toxicological information available for the product includes the following:
+
+- Mutagenic effects: May affect genetic material based on animal test data.
+- Reproductive effects: May cause adverse reproductive effects and impair fertility. Presumed human reproductive toxicant.
+- Teratogenic effects: May cause birth defects.
+- Specific target organ toxicity, single exposure: No information available.
+- Specific target organ toxicity, repeated exposure: May cause damage to the central nervous system, blood, kidneys, liver, and bone marrow.
+- Aspiration hazard: No data available.
+- Carcinogenic effects: Not identified as a probable, possible, or confirmed human carcinogen by IARC, ACGIH, NTP, or OSHA.
+- Most important symptoms and effects: Irritating to eyes, may cause slight skin irritation, central nervous system effects, gastrointestinal irritation, nausea, vomiting, diarrhea, liver and kidney effects, blood effects, bone marrow effects, respiratory effects, and potential effects on fertility or teratogenic effects.
+
+Please note that this information is based on the provided pages and may not be exhaustive.
+----------------------------------------------------------
+11. What are the safety precautions and handling instructions for using the product?
+Answer(10.13s): According to the information provided, the safety precautions and handling instructions for using the product include:
+
+1. Avoid contact with skin and eyes.
+2. Avoid inhalation of vapor.
+3. Use personal protective equipment.
+4. Ensure adequate ventilation.
+5. Keep bottles securely closed in a dry, well-ventilated place when not in use.
+6. Avoid strong oxidizing agents.
+7. If skin contact occurs, remove contaminated clothing, wash exposed area with soap and water, and rinse thoroughly. Seek medical attention if irritation persists or contact has been prolonged.
+8. In case of eye contact, gently rinse eyes for 15 minutes and consult a physician. Move the individual into fresh air.
+9. In case of inhalation, move the individual into fresh air. If breathing is difficult, oxygen may be given by qualified personnel. Seek immediate medical attention.
+10. In case of ingestion, do not induce vomiting without medical advice. Consult a physician.
+11. Prevent further leakage or spillage if safe to do so. Do not let the product enter drains.
+12. Soak up with inert absorptive material and put into a suitable chemical waste disposal container for cleaning up.
+13. Wear self-contained breathing apparatus for firefighting if necessary.
+
+Please note that this information is based on the provided pages and may not be exhaustive. It is always recommended to refer to the product's specific safety data sheet or consult with the manufacturer for complete and accurate safety precautions and handling instructions.
+----------------------------------------------------------
+12. What are the potential hazards associated with the product?
+Answer(2.34s): The potential hazards associated with the product include flammability, irritation to eyes and skin, central nervous system effects, gastrointestinal irritation, potential effects on the liver, kidneys, blood, bone marrow, respiration, fertility, and teratogenic effects.
+----------------------------------------------------------
+13. What are the specific health effects or risks associated with exposure to the product?
+Answer(3.42s): Exposure to the product may result in various health effects. These include skin and eye irritation, gastrointestinal irritation, central nervous system effects, respiratory issues, potential damage to the liver, kidneys, blood, and bone marrow, and possible fertility and teratogenic effects. However, specific information on the risks associated with exposure to the product is not available. It is advisable to seek medical attention if any symptoms persist or if there is prolonged exposure.
+----------------------------------------------------------
+14. What are the emergency procedures in case of inhalation of the product?
+Answer(6.25s): In case of inhalation of the product, it is recommended to move the individual into fresh air. If breathing becomes difficult, oxygen may be given by qualified personnel. Immediate medical attention should be sought.
+----------------------------------------------------------
+15. What are the emergency procedures in case of skin contact with the product?
+Answer(2.53s): In case of skin contact with the product, it is recommended to remove contaminated clothing and wash the exposed area with soap and water. Rinse thoroughly. If irritation persists or if contact has been prolonged, seek medical attention.
+----------------------------------------------------------
+16. What are the emergency procedures in case of eye contact with the product?
+Answer(3.0s): In case of eye contact with the product, the emergency procedure is to rinse the eyes with water for several minutes. It is also recommended to consult a physician.
+----------------------------------------------------------
+17. What are the emergency procedures in case of ingestion of the product?
+Answer(1.77s): In case of ingestion of the product, it is advised not to induce vomiting without medical advice. It is recommended to consult a physician for further guidance and treatment.
+----------------------------------------------------------
