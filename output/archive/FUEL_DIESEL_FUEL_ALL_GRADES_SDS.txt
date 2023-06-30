@@ -1,0 +1,72 @@
+1. What are the first aid measures in case of inhalation?
+Answer(3.91s): In case of inhalation, the first aid measures include removing the victim to fresh air and keeping them at rest in a comfortable breathing position. If it is suspected that gas or vapor is still present, the rescuer should wear an appropriate mask or self-contained breathing apparatus. If the person is not breathing or breathing irregularly, artificial respiration or oxygen should be provided by trained personnel. It is important to note that giving mouth-to-mouth resuscitation may be dangerous to the person providing aid. Immediate medical attention should be sought.
+----------------------------------------------------------
+2. What are the first aid measures in case of skin contact?
+Answer(2.82s): In case of skin contact with a chemical product, the first aid measures include washing the contaminated skin with soap and water, removing contaminated clothing and shoes, and continuing to rinse the affected area for at least 10 minutes. It is also recommended to seek medical attention and wash the clothing before reuse.
+----------------------------------------------------------
+3. What are the first aid measures in case of eye contact?
+Answer(1.46s): In case of eye contact, the first aid measures include rinsing the eyes with water and seeking immediate medical attention.
+----------------------------------------------------------
+4. What are the first aid measures in case of ingestion?
+Answer(3.02s): In case of ingestion, it is recommended to get medical attention immediately. Do not induce vomiting. If vomiting occurs, keep the head low to prevent vomit from entering the lungs. Never give anything by mouth to an unconscious person. If the patient is obtunded, protect the airway by cuffed endotracheal intubation or by placing the body in a Trendelenburg and left lateral decubitus position. Treat symptomatically and supportively.
+----------------------------------------------------------
+5. What is the emergency telephone number for the product?
+Answer(1.44s): The emergency telephone number for the product is (800) 424-9300.
+----------------------------------------------------------
+6. What are the hazard classifications associated with the product?
+Answer(2.23s): The hazard classifications associated with the product include harmful if inhaled, causes skin and eye irritation, suspected of causing cancer, may be fatal if swallowed and enters airways, and may cause damage to organs through prolonged or repeated exposure.
+----------------------------------------------------------
+7. What are the hazard statements related to the product?
+Answer(2.16s): The hazard statements related to the product are:
+- Harmful if inhaled.
+- Causes skin and eye irritation.
+- Suspected of causing cancer.
+- May be fatal if swallowed and enters airways.
+- May cause damage to organs through prolonged or repeated exposure (central nervous system).
+----------------------------------------------------------
+8. What precautions should be taken while handling the product?
+Answer(4.41s): Precautions for safe handling include wearing appropriate personal protective equipment, avoiding exposure, obtaining special instructions before use, and ensuring adequate ventilation. It is important to avoid getting the product in eyes, on skin or clothing, and to not breathe vapor or mist. Storage should be away from heat, sparks, open flame, or any other ignition source, and non-sparking tools should be used. Precautionary measures against electrostatic discharges should also be taken. Additionally, empty containers should not be reused, and bonding and grounding should be done when loading and confirming that receiving containers are properly grounded.
+----------------------------------------------------------
+9. What are the suitable extinguishing media for a fire involving the product?
+Answer(31.58s): 
+----------------------------------------------------------
+10. What is the toxicological information available for the product?
+Answer(3.89s): The toxicological information available for the product includes the LD50 values for certain substances. The LD50 values for Trimethylbenzene, all isomers are 8970 mg/kg (oral) and for Naphthalene are 490 mg/kg (oral). The LD50 value for Biphenyl is >5010 mg/kg (dermal) and 2140 mg/kg (oral). The LC50 value for Cumene (inhalation vapor) is 10 g/m³ for 7 hours.
+----------------------------------------------------------
+11. What are the safety precautions and handling instructions for using the product?
+Answer(8.94s): The safety precautions and handling instructions for using the product include:
+- Wearing chemical-resistant gloves and safety glasses with side shields when handling chemical products.
+- Checking that the gloves are still retaining their protective properties during use.
+- Using splash goggles and a full-face respirator if there is a risk of contact or inhalation hazards.
+- Selecting appropriate personal protective equipment for the body and skin based on the task and risks involved.
+- Ensuring that ventilation or work process equipment comply with environmental protection legislation.
+- Using adequate ventilation, process enclosures, and engineering controls to minimize worker exposure to airborne contaminants.
+- Washing hands, forearms, and face thoroughly after handling chemical products and before eating, smoking, or using the lavatory.
+- Removing potentially contaminated clothing and washing it before reuse.
+- Having eyewash stations and safety showers close to the workstation location.
+- Following proper hygiene measures and obtaining special instructions before use.
+- Storing and using the product away from heat, sparks, open flame, or any other ignition source.
+- Using explosion-proof electrical equipment and non-sparking tools.
+- Taking precautionary measures against electrostatic discharges.
+- Not reusing containers and properly disposing of empty containers.
+- Bonding receiving containers to the fill pipe and ensuring proper grounding.
+Please note that these instructions are based on general safety guidelines and may vary depending on the specific product. It is always recommended to consult the product's safety data sheet and follow any specific instructions provided by the manufacturer.
+----------------------------------------------------------
+12. What are the potential hazards associated with the product?
+Answer(2.94s): The potential hazards associated with the product include flammability, skin and eye irritation, suspected carcinogenicity, and potential harm if swallowed or inhaled. Prolonged or repeated exposure may also cause damage to organs, specifically the central nervous system.
+----------------------------------------------------------
+13. What are the specific health effects or risks associated with exposure to the product?
+Answer(2.76s): Exposure to the product may cause skin and eye irritation, and there is a risk of it being harmful if inhaled. It is also suspected of causing cancer and may be fatal if swallowed and enters the airways. Prolonged or repeated exposure may cause damage to organs, particularly the central nervous system.
+----------------------------------------------------------
+14. What are the emergency procedures in case of inhalation of the product?
+Answer(6.47s): In case of inhalation of the product, it is recommended to remove the person to fresh air and keep them at rest in a comfortable breathing position. If it is suspected that gas or vapor is still present, the rescuer should wear an appropriate mask or self-contained breathing apparatus. If the person is not breathing, breathing is irregular, or respiratory arrest occurs, provide artificial respiration or oxygen by trained personnel. It is important to seek medical attention immediately.
+----------------------------------------------------------
+15. What are the emergency procedures in case of skin contact with the product?
+Answer(5.44s): In case of skin contact with the product, the emergency procedure is to wash the contaminated skin with soap and water. It is also recommended to remove contaminated clothing and shoes, and continue rinsing the affected area for at least 10 minutes. Medical attention should be sought, and the clothing should be washed before reuse. Clean shoes thoroughly before reuse as well.
+----------------------------------------------------------
+16. What are the emergency procedures in case of eye contact with the product?
+Answer(2.36s): In case of eye contact with the product, the emergency procedures include rinsing the eyes with water for at least 10 minutes and seeking immediate medical attention. Adverse symptoms that may occur include pain or irritation, watering, and redness.
+----------------------------------------------------------
+17. What are the emergency procedures in case of ingestion of the product?
+Answer(2.05s): In case of ingestion of the product, it is recommended to immediately call a POISON CENTER or physician. Do NOT induce vomiting.
+----------------------------------------------------------

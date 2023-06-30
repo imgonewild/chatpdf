@@ -1,20 +1,20 @@
 1. What are the first aid measures in case of inhalation?
-Answer(1.69s): The first aid measures in case of inhalation are to remove the person to fresh air and seek medical attention.
+Answer(1.83s): The first aid measures in case of inhalation are to remove the person to fresh air and seek medical attention.
 ----------------------------------------------------------
 2. What are the first aid measures in case of skin contact?
-Answer(2.0s): In case of skin contact, the recommended first aid measure is to wash the affected area with soap and water. If signs or symptoms develop, it is advised to seek medical attention.
+Answer(2.72s): In case of skin contact, the recommended first aid measure is to wash the affected area with soap and water. If signs or symptoms develop, it is advised to seek medical attention.
 ----------------------------------------------------------
 3. What are the first aid measures in case of eye contact?
-Answer(3.59s): In case of eye contact, the recommended first aid measure is to flush the eyes with large amounts of water. If contact lenses are present and easy to remove, they should be taken out. Continue rinsing the eyes and if signs or symptoms persist, it is advised to seek medical attention.
+Answer(3.8s): In case of eye contact, the recommended first aid measure is to flush the eyes with large amounts of water. If contact lenses are present and easy to remove, they should be taken out. Continue rinsing the eyes and if signs or symptoms persist, it is advised to seek medical attention.
 ----------------------------------------------------------
 4. What are the first aid measures in case of ingestion?
-Answer(1.92s): In case of ingestion, the recommended first aid measure is to rinse the mouth and seek medical attention if you feel unwell.
+Answer(2.24s): In case of ingestion, the recommended first aid measure is to rinse the mouth and seek medical attention if you feel unwell.
 ----------------------------------------------------------
 5. What is the emergency telephone number for the product?
-Answer(1.79s): The emergency telephone number for the product is 1-800-364-3577 or (651) 737-6501 (24 hours).
+Answer(9.71s): The emergency telephone number for the product is 1-800-364-3577 or (651) 737-6501 (24 hours).
 ----------------------------------------------------------
 6. What are the hazard classifications associated with the product?
-Answer(3.22s): The hazard classifications associated with the product are as follows:
+Answer(4.57s): The hazard classifications associated with the product are as follows:
 - Flammable Aerosol: Category 1
 - Gas Under Pressure: Liquefied gas
 - Serious Eye Damage/Irritation: Category 2B
@@ -23,60 +23,10 @@ Answer(3.22s): The hazard classifications associated with the product are as fol
 - Specific Target Organ Toxicity (single exposure): Category 3
 ----------------------------------------------------------
 7. What are the hazard statements related to the product?
-Answer(1.45s): The hazard statements related to the product are not provided in the given pages.
+Answer(15.36s): The hazard statements related to the product are not provided in the given pages.
 ----------------------------------------------------------
-8. What precautions should be taken while handling the product?
-Answer(4.33s): Precautions for safe handling include:
-- Keep out of reach of children.
-- Keep away from heat/sparks/open flames/hot surfaces. - No smoking.
-- Do not spray on an open flame or other ignition source.
-- Do not pierce or burn, even after use.
-- Do not breathe dust/fume/gas/mist/vapors/spray.
-- Do not get in eyes, on skin, or on clothing.
-- Do not eat, drink, or smoke when using this product.
-- Wash thoroughly after handling.
-- Avoid contact with oxidizing agents.
-- Avoid release to the environment.
-----------------------------------------------------------
-9. What are the suitable extinguishing media for a fire involving the product?
-Answer(1.46s): The suitable extinguishing media for a fire involving the product are fire fighting agents suitable for the surrounding fire.
-----------------------------------------------------------
-10. What is the toxicological information available for the product?
-Answer(10.7s): The toxicological information available for the product is as follows:
-
-- Cardiac Sensitization: Signs/symptoms may include irregular heartbeat (arrhythmia), faintness, chest pain, and may be fatal.
-- Acute Toxicity: No specific data is available for the overall product. However, the calculated ATE (Acute Toxicity Estimate) for dermal exposure is greater than 5,000 mg/kg, for inhalation-vapor exposure is between 20-50 mg/l, and for ingestion is greater than 5,000 mg/kg.
-- Specific data is available for certain components of the product:
-  - Dimethyl Ether (inhalation-gas): Rat LC50 (lethal concentration for 50% of test subjects) is 164,000 ppm.
-  - Methyl Acetate (dermal): Rat LD50 (lethal dose for 50% of test subjects) is greater than 2,000 mg/kg.
-  - Methyl Acetate (inhalation-vapor): Rat LC50 is greater than 49 mg/l.
-  - Methyl Acetate (ingestion): Rat LD50 is greater than 5,000 mg/kg.
-  - Cyclohexane (dermal): Rat LD50 is greater than 2,000 mg/kg.
-  - Cyclohexane (inhalation): Rat LC50 is greater than 32.9 mg/l.
-
-Please note that the toxicological data on ingredients may not be reflected in the material classification and the signs and symptoms of exposure due to various factors mentioned in the provided information.
-----------------------------------------------------------
-11. What are the safety precautions and handling instructions for using the product?
-Answer(6.58s): The safety precautions and handling instructions for using the product include:
-- Keep away from heat/sparks/open flames/hot surfaces. - No smoking.
-- Do not spray on an open flame or other ignition source.
-- Use only outdoors or in a well-ventilated area.
-- Do not breathe dust/fume/gas/mist/vapors/spray.
-- Do not get in eyes, on skin, or on clothing.
-- Do not eat, drink or smoke when using this product.
-- Wash thoroughly after handling.
-- Keep out of reach of children.
-- Avoid contact with oxidizing agents.
-- Store in a well-ventilated place.
-- Keep container tightly closed.
-- Protect from sunlight.
-- Do not expose to temperatures exceeding 50C/122F.
-- Store away from heat, acids, and oxidizing agents.
-
-Please note that these instructions are based on the available information, and it is always recommended to refer to the product's specific instructions and guidelines for safe usage.
-----------------------------------------------------------
-12. What are the potential hazards associated with the product?
-Answer(3.24s): The potential hazards associated with the product are:
+8. What are the potential hazards associated with the product?
+Answer(4.45s): The potential hazards associated with the product are:
 - Flammable Aerosol (Category 1)
 - Gas Under Pressure (Liquefied gas)
 - Serious Eye Damage/Irritation (Category 2B)
@@ -84,8 +34,23 @@ Answer(3.24s): The potential hazards associated with the product are:
 - Specific Target Organ Toxicity (single exposure) (Category 1)
 - Specific Target Organ Toxicity (single exposure) (Category 3)
 ----------------------------------------------------------
-13. What are the specific health effects or risks associated with exposure to the product?
-Answer(8.53s): Exposure to the product may result in various health effects. Inhalation of the product may be harmful and can cause respiratory tract irritation, leading to symptoms such as cough, sneezing, nasal discharge, headache, hoarseness, and nose and throat pain. It may also cause simple asphyxiation, which can manifest as increased heart rate, rapid respirations, drowsiness, headache, incoordination, altered judgment, nausea, vomiting, lethargy, seizures, coma, and can be fatal.
+9. What precautions should be taken while using the product?
+Answer(9.95s): Precautions that should be taken while using the product include:
+- Keep away from heat/sparks/open flames/hot surfaces.
+- Do not spray on an open flame or other ignition source.
+- Do not pierce or burn the container, even after use.
+- Do not breathe dust/fume/gas/mist/vapors/spray.
+- Use only outdoors or in a well-ventilated area.
+- Do not eat, drink, or smoke when using this product.
+- Wash thoroughly after handling.
+- Avoid contact with oxidizing agents.
+- Keep out of reach of children.
+----------------------------------------------------------
+10. What is the conditions for safe storage of the product?
+Answer(3.11s): The conditions for safe storage of the product include storing it in a well-ventilated place, keeping the container tightly closed, protecting it from sunlight, and avoiding exposure to temperatures exceeding 50C/122F. It should also be stored away from heat, acids, and oxidizing agents.
+----------------------------------------------------------
+11. What are the specific health effects or risks associated with exposure to the product?
+Answer(10.45s): Exposure to the product may result in various health effects. Inhalation of the product may be harmful and can cause respiratory tract irritation, leading to symptoms such as cough, sneezing, nasal discharge, headache, hoarseness, and nose and throat pain. It may also cause simple asphyxiation, which can manifest as increased heart rate, rapid respirations, drowsiness, headache, incoordination, altered judgment, nausea, vomiting, lethargy, seizures, coma, and can be fatal.
 
 Skin contact with the product may cause mild skin irritation, characterized by localized redness, swelling, itching, and dryness. Eye contact may lead to moderate eye irritation, resulting in symptoms like redness, swelling, pain, tearing, and blurred or hazy vision.
 
@@ -93,15 +58,28 @@ Ingestion of the product can cause gastrointestinal irritation, leading to abdom
 
 It is important to note that intentional concentration and inhalation of the product can be harmful or fatal.
 ----------------------------------------------------------
-14. What are the emergency procedures in case of inhalation of the product?
-Answer(1.87s): In case of inhalation of the product, the emergency procedure is to remove the person to fresh air and keep them comfortable for breathing. It is recommended to seek medical attention.
+12. What is the waste disposal process for the product?
+Answer(3.26s): According to the information provided, if no other disposal options are available, waste product that has been completely cured or polymerized may be placed in a landfill properly designed for industrial waste. However, it is recommended to consult with the respective regulating authorities to determine the available treatment and disposal facilities.
 ----------------------------------------------------------
-15. What are the emergency procedures in case of skin contact with the product?
-Answer(1.94s): In case of skin contact with the product, the emergency procedure is to wash the affected area with soap and water. If signs or symptoms develop, it is recommended to seek medical attention.
+13. What are the suitable extinguishing media for a fire involving the product?
+Answer(8.02s): The suitable extinguishing media for a fire involving the product are fire fighting agents suitable for the surrounding fire.
 ----------------------------------------------------------
-16. What are the emergency procedures in case of eye contact with the product?
-Answer(3.09s): In case of eye contact with the product, the recommended emergency procedure is to flush the eyes with large amounts of water. If contact lenses are being worn, they should be removed if easy to do so. Continue rinsing the eyes and if signs or symptoms persist, it is advised to seek medical attention.
+14. What is the acute toxicity data for the overall product and specific components?
+Answer(12.55s): The acute toxicity data for the overall product is as follows:
+- Dermal: No data available; calculated ATE > 5,000 mg/kg
+- Inhalation-Vapor (4 hr): No data available; calculated ATE 20 - 50 mg/l
+- Ingestion: No data available; calculated ATE > 5,000 mg/kg
+
+For specific components:
+- Dimethyl Ether Inhalation-Gas (4 hours): Rat LC50 164,000 ppm
+- Methyl Acetate Dermal: Rat LD50 > 2,000 mg/kg
+- Methyl Acetate Inhalation-Vapor (4 hours): Rat LC50 > 49 mg/l
+- Methyl Acetate Ingestion: Rat LD50 > 5,000 mg/kg
+- Cyclohexane Dermal: Rat LD50 > 2,000 mg/kg
+- Cyclohexane Inhalation: Rat LC50 > 32.9 mg/l
+
+Please note that for some components, either no data are available or the data are not sufficient for classification.
 ----------------------------------------------------------
-17. What are the emergency procedures in case of ingestion of the product?
-Answer(2.48s): The emergency procedures in case of ingestion of the product are not specifically mentioned in the given pages. However, in general, if someone ingests a hazardous substance, it is important to seek immediate medical attention. Rinse the mouth and do not induce vomiting unless instructed by a medical professional.
+15. Are there any chronic effects associated with this substance?
+Answer(8.58s): According to the information provided, there are some chronic effects associated with the substance. However, the data available is not sufficient for classification.
 ----------------------------------------------------------

@@ -13,7 +13,9 @@ headers = {
 url = "https://api.chatpdf.com/v1/chats/message"
 
 # multi_SDS = ['FUEL_DIESEL_FUEL_ALL_GRADES_SDS']
-multi_SDS = ['HYDRAULIC_OIL_AW_68_MSDS','GOJO_ANTIBACTERIAL_PLUM_FOAM_HANDWASH_MSDS']
+# multi_SDS = ['ACCU_DYNE_TEST_FLUIDS_SDS','ADHESIVE_3M_SPRAY_ADHESIVE_90_MULTI_PURPOSE_SDS','ANTIFREEZE_PETRO_CANADA_SDS','AVERY_MARKS_A_LOT_BLACK_PERMANENT_MARKER_MSDS','CATALYST_CARULITE_200_GRANULAR_CATALYST_SDS','FUEL_DIESEL_FUEL_ALL_GRADES_SDS','CRC_SP_350_MSDS','HYDRAULIC_OIL_AW_68_MSDS','GOJO_ANTIBACTERIAL_PLUM_FOAM_HANDWASH_MSDS']
+multi_SDS =['GOJO_ANTIBACTERIAL_PLUM_FOAM_HANDWASH_MSDS']
+# multi_SDS = ['CRC_SP_350_MSDS','HYDRAULIC_OIL_AW_68_MSDS','GOJO_ANTIBACTERIAL_PLUM_FOAM_HANDWASH_MSDS']
 
 for SDS in multi_SDS:
     SOURCE_ID = os.getenv(SDS)
@@ -23,7 +25,7 @@ for SDS in multi_SDS:
         output = ''
         print(f"{SDS}")
 
-        for line in open('./SDS_17_Qs.jsonl', 'r'):
+        for line in open('./prompt_db.jsonl', 'r'):
             question = json.loads(line)['prompt']
 
             output += f"{cnt}. {question}\n"    
@@ -57,7 +59,7 @@ for SDS in multi_SDS:
         if not os.path.exists(f"output"):
             os.makedirs(f"output")
 
-        with open(f'./output/{SDS}.txt', 'w') as f:
+        with open(f'./output/{SDS}.txt', 'wb') as f:
             f.write(output)
         
     except requests.exceptions.RequestException as error:

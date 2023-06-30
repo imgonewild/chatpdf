@@ -1,0 +1,72 @@
+1. What are the first aid measures in case of inhalation?
+Answer(1.61s): In case of inhalation, move the exposed person to fresh air and seek medical attention if symptoms occur. No specific treatment is mentioned.
+----------------------------------------------------------
+2. What are the first aid measures in case of skin contact?
+Answer(1.43s): After contact with skin, wash immediately with plenty of soap and water. Get medical attention if symptoms occur.
+----------------------------------------------------------
+3. What are the first aid measures in case of eye contact?
+Answer(1.94s): In case of eye contact, immediately flush the eyes with plenty of water for at least 20 minutes, occasionally lifting the upper and lower eyelids. It is recommended to seek medical attention if symptoms occur.
+----------------------------------------------------------
+4. What are the first aid measures in case of ingestion?
+Answer(2.3s): In case of ingestion, the recommended first aid measure is to wash out the mouth with water. However, it is important to not induce vomiting unless directed to do so by medical personnel. If symptoms occur, it is advised to seek medical attention.
+----------------------------------------------------------
+5. What is the emergency telephone number for the product?
+Answer(1.56s): The emergency telephone number for the product is CHEMTREC: (800) 424-9300.
+----------------------------------------------------------
+6. What are the hazard classifications associated with the product?
+Answer(1.3s): According to the information provided, there are no hazard classifications associated with the product.
+----------------------------------------------------------
+7. What are the hazard statements related to the product?
+Answer(1.27s): Based on the given information, there are no hazard statements related to the product.
+----------------------------------------------------------
+8. What precautions should be taken while handling the product?
+Answer(3.01s): According to the information provided, when handling the product, it is recommended to put on appropriate personal protective equipment, avoid contact with the used product, and prohibit eating, drinking, and smoking in areas where the material is handled, stored, and processed. Workers should also wash their hands and face before eating, drinking, and smoking. Additionally, it is advised not to reuse the container.
+----------------------------------------------------------
+9. What are the suitable extinguishing media for a fire involving the product?
+Answer(1.4s): The suitable extinguishing media for a fire involving the product are not specified in the given pages.
+----------------------------------------------------------
+10. What is the toxicological information available for the product?
+Answer(5.08s): The toxicological information available for the product is as follows:
+- There are no ingredients present in the product that are classified as hazardous to health or the environment.
+- In case of ingestion, skin contact, inhalation, or eye contact, it is recommended to seek medical attention if symptoms occur.
+- No specific treatment is mentioned, and symptom-based treatment is advised.
+- No known significant chronic health effects, carcinogenicity, mutagenicity, teratogenicity, developmental effects, or fertility effects have been reported.
+- No specific data is available for over-exposure signs/symptoms.
+- The product is not expected to produce significant adverse health effects when used as recommended.
+- Precautions include avoiding prolonged contact with eyes, skin, and clothing.
+----------------------------------------------------------
+11. What are the safety precautions and handling instructions for using the product?
+Answer(10.5s): According to the information provided, the safety precautions and handling instructions for using the product include:
+- Put on appropriate personal protective equipment.
+- Avoid dispersal of spilled material and contact with soil, waterways, drains, and sewers.
+- Prevent entry into sewers, water courses, basements, or confined areas.
+- Wash spillages into an effluent treatment plant or contain and collect spillage with non-combustible, absorbent material.
+- Dispose of spillage and waste via a licensed waste disposal contractor.
+- Wash out mouth with water if ingested and seek medical attention if symptoms occur.
+- Immediately flush eyes with plenty of water for at least 20 minutes if there is eye contact.
+- Wash skin immediately with soap and water if there is skin contact.
+- Move exposed person to fresh air if there is inhalation.
+- Use an extinguishing agent suitable for the surrounding fire if there is a fire.
+- Wear appropriate personal protective equipment, such as safety eyewear and gloves.
+- Follow good hygiene practices, including washing hands and face thoroughly after handling the product.
+
+Please note that this information is based on the available pages, and there may be additional safety precautions and handling instructions that are not mentioned.
+----------------------------------------------------------
+12. What are the potential hazards associated with the product?
+Answer(1.83s): According to the information provided, there are no known significant effects or critical hazards associated with the product. When the recommended instructions for use are followed, it is not expected to produce significant adverse health effects.
+----------------------------------------------------------
+13. What are the specific health effects or risks associated with exposure to the product?
+Answer(2.02s): According to the information provided, there are no known significant health effects or critical hazards associated with exposure to the product. It is not expected to produce significant adverse health effects when the recommended instructions for use are followed.
+----------------------------------------------------------
+14. What are the emergency procedures in case of inhalation of the product?
+Answer(2.86s): In case of inhalation of the product, move the exposed person to fresh air and seek medical attention if symptoms occur. No specific treatment is mentioned, so it is recommended to treat symptomatically. Contact a poison treatment specialist immediately if large quantities have been inhaled.
+----------------------------------------------------------
+15. What are the emergency procedures in case of skin contact with the product?
+Answer(1.97s): In case of skin contact with the product, it is recommended to wash immediately with plenty of soap and water. If symptoms occur, it is advised to seek medical attention.
+----------------------------------------------------------
+16. What are the emergency procedures in case of eye contact with the product?
+Answer(1.92s): In case of eye contact with the product, immediately flush the eyes with plenty of water for at least 20 minutes, occasionally lifting the upper and lower eyelids. If symptoms occur, seek medical attention.
+----------------------------------------------------------
+17. What are the emergency procedures in case of ingestion of the product?
+Answer(2.45s): In case of ingestion of the product, it is recommended to wash out the mouth with water and not induce vomiting unless directed to do so by medical personnel. It is important to seek medical attention if symptoms occur. If large quantities have been ingested, it is advised to contact a poison treatment specialist immediately.
+----------------------------------------------------------
