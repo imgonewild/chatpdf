@@ -1,6 +1,6 @@
 import requests
-import os
 from dotenv import load_dotenv
+import os
 
 load_dotenv()
 X_API_KEY = os.getenv('X_API_KEY')
@@ -26,19 +26,15 @@ def api_ask_question(source_id, question):
         response = requests.post(url, json=data, headers=headers, stream=True)
         response.raise_for_status()
         answer = response.text
+        return answer  
     except Exception as e:
         return e  
-
-    if response.iter_content == False:
-        print("No data received")
-        raise Exception("No data received")
-
-    return answer  
 
 def api_upload_file(path):
     print(path)
     
     file = os.path.splitext(os.path.basename(path))[0] 
+    #the symbol [,- %] would make .env malfunction
     SDS = file.replace(", ", "_").replace("-", "_").replace(" ", "_").replace("%", "_").upper()
 
     files = [
@@ -54,7 +50,6 @@ def api_upload_file(path):
 
     if response.status_code == 200:
         source_id = response.json()['sourceId']
-        # os.putenv(SDS, source_id)
         os.environ[SDS] = source_id
 
         with open(".env", "a") as f:
@@ -66,4 +61,4 @@ def api_upload_file(path):
     else:
         print('Status:', response.status_code)
         print('Error:', response.text)
-        return response.status_code + ', ' +response.text
+        return response.status_code + ', ' + response.text
