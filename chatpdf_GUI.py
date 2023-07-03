@@ -7,7 +7,7 @@ from chatpdf_api import *
 from dotenv import load_dotenv
 
 root = tk.Tk()
-root.title('Inteplast SDS uploader')
+root.title('Inteplast SDS Tool')
 root.resizable(False, False)
 root.geometry('600x350')
 
@@ -21,11 +21,10 @@ def load_pdf():
 
     readfile = open('.env', "r")
     for line in readfile:
-        split = line.split(" = ")
+        line = line.replace(' ','')
+        split = line.split("=")
         key = split[0]
-        # val = split[1]
-
-        if(key!='X_API_KEY'):
+        if(key!='X_API_KEY' and key[0]!='#'):
             pdf_select['menu'].add_command(label=key, command=tk._setit(var_pdf_select, key))
 
 def select_files():
@@ -52,9 +51,14 @@ def call_api(method):
         messagebox.showinfo("Alert", "Please select a SDS.")
         return
     elif method == "ask_question" and pdf != 'Select SDS':
-        source_id = os.getenv(var_pdf_select.get())
+        print("var_pdf_select.get()", pdf)
+
+        source_id = os.getenv(pdf)
+        
         question = entry_value.get()
         ans = api_ask_question(source_id, question)
+        print("source_id", source_id)
+
         messagebox.showinfo("Answer", ans)
     elif method != '':  #upload file
         messagebox.showinfo("Info", api_upload_file(method))  
@@ -72,10 +76,9 @@ Label(root, text= "Inteplast SDS system", font= ('Aerial 17 bold italic')).pack(
 
 pdf_choices = ('1')
 var_pdf_select = tk.StringVar(root)
-pdf_select = tk.OptionMenu(root, var_pdf_select, pdf_choices)
+pdf_select = tk.OptionMenu(root, var_pdf_select, *pdf_choices)
 var_pdf_select.trace("w", callback)
 pdf_select.pack()
-
 
 # tk.Button(root, text='Reload SDS', command=load_pdf).pack()
 load_pdf()
