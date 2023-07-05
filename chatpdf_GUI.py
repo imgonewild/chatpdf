@@ -2,7 +2,6 @@ import tkinter as tk #import model A as alias B
 from tkinter import *
 from tkinter import ttk, messagebox
 from tkinter import filedialog as fd
-from tkinter.messagebox import showinfo
 from chatpdf_api import *
 from dotenv import load_dotenv
 #from model A import function/class/vairable
@@ -17,7 +16,7 @@ load_dotenv() #make you able to use os.getenv() and os.environ to load .env file
 X_API_KEY = os.getenv('X_API_KEY')
 
 def load_pdf():
-    var_pdf_select.set('Select SDS') #selected select option
+    var_pdf_select.set('Select SDS') #set select option
 
     pdf_select['menu'].delete(0, 'end')
 
@@ -39,7 +38,7 @@ def select_files(): #browse select file dialog
         title='Open files',
         initialdir='/',
         filetypes=filetypes)
-
+    
     call_api(file)
   
 def call_api(method):
@@ -64,7 +63,8 @@ Label(root, text= "Inteplast SDS system", font= ('Aerial 17 bold italic')).pack(
 
 pdf_choices = ('1') #It should use at least one option or it'd show error
 var_pdf_select = tk.StringVar(root)
-pdf_select = tk.OptionMenu(root, var_pdf_select, *pdf_choices).pack()
+pdf_select = tk.OptionMenu(root, var_pdf_select, pdf_choices)
+pdf_select.pack()
 
 load_pdf()
 
