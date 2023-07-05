@@ -15,73 +15,73 @@ root.geometry('600x350')
 load_dotenv() #make you able to use os.getenv() and os.environ to load .env file
 X_API_KEY = os.getenv('X_API_KEY')
 
-def load_pdf():
-    var_pdf_select.set('Select SDS') #set select option
-
-    pdf_select['menu'].delete(0, 'end')
-
+def load_pdf(): #load .env file then select option data
+    var_sds_select.set('Select SDS')
+    sds_option_menu['menu'].delete(0, 'end')
     readfile = open('.env', "r")
+
     for line in readfile:
-        line = line.replace(' ','')
-        split = line.split("=")
+        split = line.replace(' ','').split("=")
         key = split[0]
         if(key!='X_API_KEY' and key[0]!='#'):
-            pdf_select['menu'].add_command(label=key, command=tk._setit(var_pdf_select, key))
+            sds_option_menu['menu'].add_command(label=key, command=tk._setit(var_sds_select, key))
 
 def select_files(): #browse select file dialog
     filetypes = (        
-        ('PDF files', '*.pdf'),
-        ('All files', '*.*')
+        ('pdf file', '*.pdf'),
+        ('All file', '*.*')
     )
 
     file = fd.askopenfilename(
-        title='Open files',
+        title='Open file',
         initialdir='/',
         filetypes=filetypes)
     
-    call_api(file)
+    call_api('upload_file',file)
   
-def call_api(method):
-    pdf = var_pdf_select.get()        
+def call_api(method, content):
+    selected_sds = var_sds_select.get()        
 
-    if method == "ask_question" and pdf == 'Select SDS':
+    if method == "ask_question" and selected_sds == 'Select SDS':
         messagebox.showinfo("Alert", "Please select a SDS.")
         return
     
-    elif method == "ask_question" and pdf != 'Select SDS':
-        source_id = os.getenv(pdf)
-        question = entry_value.get()
-        ans = api_ask_question(source_id, question)
+    elif method == "ask_question" and selected_sds != 'Select SDS':
+        source_id = os.getenv(selected_sds)
+        ans = api_ask_question(source_id, content)
         messagebox.showinfo("Answer", ans)
 
-    elif method != '':  #upload file
-        messagebox.showinfo("Info", api_upload_file(method))  
+    elif method == 'upload_file':  #upload file
+        messagebox.showinfo("Info", api_upload_file(content))  
         load_pdf()      
 
 # Add an optional Label widget
 Label(root, text= "Inteplast SDS system", font= ('Aerial 17 bold italic')).pack(pady= 30)
 
-pdf_choices = ('1') #It should use at least one option or it'd show error
-var_pdf_select = tk.StringVar(root)
-pdf_select = tk.OptionMenu(root, var_pdf_select, pdf_choices)
-pdf_select.pack()
+# Add select option widget
+sds_options = ('1') #It should use at least one option or it'd show error
+var_sds_select = tk.StringVar(root)
+sds_option_menu = tk.OptionMenu(root, var_sds_select, sds_options)
+sds_option_menu.pack()
 
 load_pdf()
 
-# Label Creation
-lbl = tk.Label(root, text = f"Question:").pack()
+# Add label 
+tk.Label(root, text = f"Question:").pack()
 
+# Add entry Creation aka input textarea
 entry_value = StringVar(root, value="What is the firs aid measures of eye contact?")
-entry=Entry(root, textvariable=entry_value, width=50).pack(padx=10, pady=10)
+entry = Entry(root, textvariable=entry_value, width=50).pack(padx=10, pady=10)
   
-printButton = ttk.Button(root,
-                        text = "Ask", 
-                        command = lambda: call_api('ask_question')                        
-                        ).pack(pady= 10)
-
-browser_pdf_btn = ttk.Button(
+ttk.Button(
     root,
-    text='Upload SDS PDF Files',
+    text = "Ask", 
+    command = lambda: call_api('ask_question', entry_value.get())                        
+).pack(pady= 10)
+
+ttk.Button(
+    root,
+    text='Upload SDS selected_sds Files',
     command=select_files,
     width=30
 ).pack()
