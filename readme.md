@@ -17,4 +17,3 @@ This project is generated with python 3.11.3 and used tkinter framework.
  # chatpdf_api.py
   - chatpdf upload file api
   - chatpdf ask question api
-  - upload api_ask_question
